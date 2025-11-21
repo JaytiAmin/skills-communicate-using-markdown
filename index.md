@@ -9,3 +9,5 @@ this is header 3 contents
 
 #### Header 4
 this is header 4 contents
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
